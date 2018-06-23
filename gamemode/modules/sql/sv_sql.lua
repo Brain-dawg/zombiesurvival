@@ -88,10 +88,10 @@ end
 -- Connect function
 mysql.Connect = function()
 	local Login = {
-		Host = "185.38.148.196",
-		User = "localhost@db11586",
-		Pass = "DHGlrtZQCefuZH34",
-		Database = "db11586",
+		Host = "",
+		User = "",
+		Pass = "",
+		Database = "",
 		Port = 3306
 	}
 
