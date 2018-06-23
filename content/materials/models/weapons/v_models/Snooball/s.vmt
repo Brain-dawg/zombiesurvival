@@ -1,7 +1,0 @@
-VertexLitGeneric
-{
-	"$basetexture"	"models\weapons\v_models\snooball\s"
-	"$bumpmap" "models\weapons\v_models\snooball\s_norm"
-
-}
-
